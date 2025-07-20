@@ -56,7 +56,7 @@
 ### Backend Setup
 Clone the repository:
 ``` bash
-git clone https://github.com/SharvariMungale25/BookNest.git
+git clone https://github.com/VijayaLakshmi-Maragani/Book_Nest-Where-the-stories-are-nestle/tree/main
 cd booknest
 ```
 
