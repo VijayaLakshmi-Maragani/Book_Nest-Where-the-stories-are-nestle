@@ -18,7 +18,7 @@
   - [2. Backend Setup](#2-backend-setup)
   - [3. Frontend Setup](#3-frontend-setup)
 - [🌐 Open the App](#-open-the-app)
-- [🔗 API Endpoints](#-api-endpoints)
+- [🔗 Core API Endpoints](#-api-endpoints)
   - [📚 Books](#-books)
   - [💬 Reviews](#-reviews)
   - [👤 Auth](#-auth)
